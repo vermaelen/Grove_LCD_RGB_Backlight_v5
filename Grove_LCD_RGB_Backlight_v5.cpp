@@ -1,5 +1,5 @@
 #include "mbed.h"
-#include "Grove_LCD_RGB_Backlight.h"
+#include "Grove_LCD_RGB_Backlight_v5.h"
 char _displayfunction;
 char _displaycontrol;
 
